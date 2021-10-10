@@ -28,7 +28,6 @@ def is_fibonacci(arr):
     return result
 
 # Pruebas:
-
 arr = [1, 9, 2, 3, 5, 8, 33, 21, 54]
 x = is_fibonacci(arr)
 print(x)
