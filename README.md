@@ -8,7 +8,13 @@ PoC, Labs, Algoritmos y Prácticas Python
 
 Inicio: 
 ```
-python fibonacci
+pipenv shell
+```
+
+```
+python fibonacci.py
+python kaprekar.py
+python equipos_peligrosos.py
 ```
 
 ##### Made with ❤️ by Leandro Arturi
