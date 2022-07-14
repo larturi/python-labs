@@ -11,11 +11,4 @@ Inicio:
 pipenv shell
 ```
 
-```
-python fibonacci.py
-python kaprekar.py
-python equipos_peligrosos.py
-```
-
 ##### Made with ❤️ by Leandro Arturi
-
