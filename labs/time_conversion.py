@@ -2,6 +2,8 @@ import re
 import string
 
 
+# https://www.hackerrank.com/challenges/time-conversion/problem?h_r=profile
+
 def timeConversion(s):
     hours = int(s.split(":")[0])
     am_pm = s[-2:]

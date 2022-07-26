@@ -1,5 +1,6 @@
-import re
+# https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=profile
 
+import re
 
 def compareTriplets(a, b):
     a_wins = 0

@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/staircase/problem?h_r=profile
+
 def staircase(n):
     str_line = ""
     for i in range(n):

@@ -4,6 +4,8 @@
 # Input a = [1, 2, 3, 4, 5, 9, 55]
 # output b = [1, 2, 2, 3, 3, 4, 4, 5]
 
+# https://www.hackerrank.com/challenges/closest-numbers/problem?h_r=profile
+
 from os import remove
 
 

@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=profile
+
 def diagonalDifference(arr):
     
     sum_diag_1 = 0
