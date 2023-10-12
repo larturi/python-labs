@@ -9,7 +9,7 @@ def migratoryBirds(arr):
     # Contar la frecuencia de avistamientos de cada tipo de ave
     for bird_type in arr:
         bird_counts[bird_type] += 1
-    print(bird_counts)
+
     # Encontrar el tipo de ave más avistado y el tipo más pequeño si hay empate
     max_count = 0
     min_type = float('inf')
